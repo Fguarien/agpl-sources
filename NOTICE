@@ -1,0 +1,17 @@
+agpl-sources
+
+Ce dépôt contient des fichiers de construction (Dockerfiles) pour des logiciels tiers.
+Aucun code de ces logiciels n'est modifié ni copié ici.
+
+- cortendesk — Copyright (c) Marc Pope et contributeurs — AGPL-3.0
+  https://github.com/marcpope/cortendesk (v1.14.0, 2070d598d30cbaec207060a0fbef539ccf5d5d52)
+
+- nextcloud-mcp-server — Copyright (c) Chris Coutinho et contributeurs — AGPL-3.0
+  https://github.com/cbcoutinho/nextcloud-mcp-server (v0.199.4, 9d97c248d61ea457d6f3684e370114811822bf5d)
+
+- cortendesk/php-8.4.27/ — recette officielle docker-library/php
+  Copyright (c) 2014 Docker, Inc. — MIT (voir cortendesk/php-8.4.27/LICENSE)
+  https://github.com/docker-library/php
+
+- PHP lui-même est téléchargé depuis php.net au moment du build (signature GPG vérifiée),
+  sous la PHP License v3.01.
